@@ -1,0 +1,25 @@
+.container3 >p{
+    font-size: 26px;
+    text-align: center;
+}
+
+.container_2 {
+    background-color: #F7F5F4;
+}
+
+.container3{
+    width: 75%;
+    margin: 0 auto ;
+    padding: 50px 0;
+}
+
+.content{
+    text-align: center;
+}
+
+.box1{
+    width: 25%;
+    box-sizing: border-box;
+    float: left;
+    padding: 20px 15px;
+}
