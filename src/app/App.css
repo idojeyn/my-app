@@ -13,6 +13,7 @@
   }
 }
 
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -36,3 +37,15 @@
     transform: rotate(360deg);
   }
 }
+
+.con{
+  width: 80%;
+  margin: 0 auto;
+
+}
+
+.color{
+  background-color: #ffff00;
+
+}
+
